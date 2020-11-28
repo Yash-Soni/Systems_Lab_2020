@@ -6,3 +6,8 @@ L 23 42
 S 37 21
 S 58 2
 L 8 35
+
+
+execute the code using ./as 100 3 input.txt
+
+it means that boardsize is 100, numof players is 3 and input file is input.txt
